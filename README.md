@@ -17,7 +17,7 @@ Web app basically will download `MOCK_DATA.json` and render it into Table (`/src
   - **Registered**: field `created_at` - display in words as `<date> ago`
 - User should be able to sort by columns: `Name`, `Gender`, `Age`, `Registered`
 - User should be able to search items by any field with search input.
-- User should see number of items in table that currently visible
+- User should see count of items in table that currently visible
 
 ### Advanced:
 

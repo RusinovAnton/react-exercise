@@ -24,6 +24,7 @@ Web app basically will download `MOCK_DATA.json` and render it into Table (`/src
 - User should be able to sort by several sortable columns at once
 - Table rendering should be optimized - don't render whole data array
 - Table should have nice looking design
+- Search and Sorting state should be stored in URL so it is shareable
 
 ## How to use boilerplate
 

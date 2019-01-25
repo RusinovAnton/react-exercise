@@ -39,7 +39,7 @@ Web app basically will download `MOCK_DATA.json` and render it into Table (`/src
 
 Mock data has list of users. User object has following shape:
 
-```json
+```
 {
   avatar
   birthDate

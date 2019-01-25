@@ -53,3 +53,7 @@ Mock data has list of users. User object has following shape:
   last_name
 }
 ```
+
+## Feedback
+
+If you have any issues, questions or improvement ideas - feel free to open an issue. Any kind of feedback is welcome
